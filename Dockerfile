@@ -1,5 +1,5 @@
 FROM alpine:edge
-MAINTAINER Josh Sandlin <josh@thenullbyte.org>
+MAINTAINER Alex de Oliveira <alex.oliveira.web@gmail.com>
 
 RUN apk --update add \
   mariadb \
